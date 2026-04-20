@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <polygon points="60,6 78.369,15.654 98.184,21.816 104.346,41.631 114,60 104.346,78.369 98.184,98.184 78.369,104.346 60,114 41.631,104.346 21.816,98.184 15.654,78.369 6,60 15.654,41.631 21.816,21.816 41.631,15.654" fill="none" stroke="#1E4FC2" stroke-width="1.2"></polygon>
+  <circle cx="60" cy="60" r="40" fill="none" stroke="#1E4FC2" stroke-width="0.7" opacity="0.4"></circle>
+  <text x="60" y="71" text-anchor="middle" font-family="'Cormorant Garamond', Garamond, Georgia, serif" font-size="36" font-weight="600" font-style="italic" fill="#0B1832">FC</text>
+  <circle cx="60" cy="6" r="1.9" fill="#B08A3E"></circle>
+  <circle cx="114" cy="60" r="1.9" fill="#B08A3E"></circle>
+  <circle cx="60" cy="114" r="1.9" fill="#B08A3E"></circle>
+  <circle cx="6" cy="60" r="1.9" fill="#B08A3E"></circle>
+</svg>
