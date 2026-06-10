@@ -1,18 +1,6 @@
-/index.html / 301
-/reports.html /reports 301
-/about.html /about 301
-/contact.html /contact 301
-/privacy-policy.html /privacy-policy 301
-/research-methodology.html /research-methodology 301
-/research-disclaimers.html /research-disclaimers 301
-/reports/texas-two-step-corporate-escape.html /reports/texas-two-step-corporate-escape 301
-/reports/carney-asset-recycling-airport-privatization.html /reports/carney-asset-recycling-airport-privatization 301
-
-/reports /reports.html 200
-/about /about.html 200
-/contact /contact.html 200
-/privacy-policy /privacy-policy.html 200
-/research-methodology /research-methodology.html 200
-/research-disclaimers /research-disclaimers.html 200
-/reports/texas-two-step-corporate-escape /reports/texas-two-step-corporate-escape.html 200
-/reports/carney-asset-recycling-airport-privatization /reports/carney-asset-recycling-airport-privatization.html 200
+# Cloudflare Pages handles clean URLs automatically:
+#   /reports -> /reports.html
+#   /reports/texas-two-step-corporate-escape -> /reports/texas-two-step-corporate-escape.html
+#
+# Keep this file free of .html <-> extensionless redirects or rewrites.
+# Paired clean URL rules can cause ERR_TOO_MANY_REDIRECTS.
