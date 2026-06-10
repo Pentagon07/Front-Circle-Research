@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Disallow: /coming-soon
+Disallow: /coming-soon.html
+Disallow: /reports/amazon-equity-research-2019
+Disallow: /reports/amazon-equity-research-2019.html
+Disallow: /reports/air-canada-equity-2015
+Disallow: /reports/air-canada-equity-2015.html
+Disallow: /reports/fox-hulu-equity-2015
+Disallow: /reports/fox-hulu-equity-2015.html
+Disallow: /reports/global-markets-q1-2025
+Disallow: /reports/global-markets-q1-2025.html
+
+Sitemap: https://frontcircle.ca/sitemap.xml

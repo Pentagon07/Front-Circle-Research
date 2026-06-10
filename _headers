@@ -1,0 +1,20 @@
+/sitemap.xml
+  Content-Type: application/xml; charset=utf-8
+
+/robots.txt
+  Content-Type: text/plain; charset=utf-8
+
+/coming-soon*
+  X-Robots-Tag: noindex, nofollow
+
+/reports/amazon-equity-research-2019*
+  X-Robots-Tag: noindex, nofollow
+
+/reports/air-canada-equity-2015*
+  X-Robots-Tag: noindex, nofollow
+
+/reports/fox-hulu-equity-2015*
+  X-Robots-Tag: noindex, nofollow
+
+/reports/global-markets-q1-2025*
+  X-Robots-Tag: noindex, nofollow
